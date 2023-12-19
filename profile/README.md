@@ -2,7 +2,7 @@
 readme
 
 # 시스템 아키텍처
-![numberOneStoryArchitecture](https://github.com/NumberOneStory/NumberOneStory/assets/67796301/e49a06f0-ce28-49b9-946b-1d738e3dd3ba)
+![numberOneStoryArchitecture](https://github.com/NumberOneStory/.github/assets/67796301/daf983bf-260e-4589-ad40-6ac1b140fc37)
 
 # MVP 목표
 1월 스프링 API 개발<br/>
