@@ -1,5 +1,5 @@
 # NumberOneStory
-readme
+하나의 주제, 경험 공유를 통한 넘버원 스토리 쟁탈전
 
 # 시스템 아키텍처
 ![numberOneStoryArchitecture](https://github.com/NumberOneStory/.github/assets/67796301/daf983bf-260e-4589-ad40-6ac1b140fc37)
